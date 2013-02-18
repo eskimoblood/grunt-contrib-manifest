@@ -27,12 +27,10 @@
   "scripts": {
     "test": "grunt test"
   },
-  "dependencies": {
-    "grunt-lib-contrib": "~0.3.0"
-  },
   "devDependencies": {
-    "grunt": "~0.3.15",
-    "grunt-contrib-clean": "~0.3.0"
+    "grunt": "~0.4",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.1.1"
   },
   "keywords": [
     "gruntplugin"
